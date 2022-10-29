@@ -24,9 +24,9 @@ rm -rf ~/Library/Application\ Support/Slack/Code\ Cache/
 
 As easy as that 🤷
 
-## Screenshots
-    BEFORE:
+# Screenshots
+### BEFORE:
 ![BEFORE](https://github.com/azeek21/school21_mac_cache_cleaner/blob/main/berfore.png)
-    AFTER:
+### AFTER:
 ![AFTER](https://github.com/azeek21/school21_mac_cache_cleaner/blob/main/after.png)
 
