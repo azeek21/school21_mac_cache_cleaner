@@ -1,3 +1,8 @@
+## INCATIVE (temporary)
+School21 stopped using slack and moved on to rocket chat. There will be a new version when I have time.
+TODO: features like showing freeable memory size, ability to clean selectively with some simple cli.
+
+## PR are welcome.
 
 # iMac cache cleaner script
 
